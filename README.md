@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm chilean (spanish is my mother language) and currently I am learning about web development (and maybe game development in the future)
 
 <!--
 **JoacoOrbit/JoacoOrbit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
